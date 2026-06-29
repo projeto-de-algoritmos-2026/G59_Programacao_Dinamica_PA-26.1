@@ -179,6 +179,3 @@ Onde **n** = número de ingredientes e **W** = limite de kcal (em blocos de 10).
 
 ---
 
-## 📚 Referência
-
-KLEINBERG, Jon; TARDOS, Éva. **Algorithm Design**. Pearson, 2005. Capítulo 6 — Dynamic Programming.
