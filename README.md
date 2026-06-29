@@ -3,7 +3,7 @@
 **Disciplina:** Projeto e Análise de Algoritmos  
 **Aluna:** Leticia de Carvalho dos Santos  
 **Matrícula:** 222022135  
-**Gravação:** [clique aqui para assistir](#) *(substitua pelo link real)*
+**Gravação:** [[clique aqui para assistir](https://youtu.be/x2MV74PstDo)](#) 
 
 ---
 
